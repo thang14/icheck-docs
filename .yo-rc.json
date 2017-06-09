@@ -1,0 +1,14 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "demo",
+    "repo": "\"/\"",
+    "splitSpec": true,
+    "samples": true,
+    "installSwaggerUI": true
+  },
+  "generator-mocha": {
+    "ui": "bdd",
+    "rjs": false
+  }
+}
